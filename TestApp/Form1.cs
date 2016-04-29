@@ -29,8 +29,12 @@ namespace TestApp
 
         private void button3_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             button3.Text = "Kurčić";
             
+=======
+            MessageBox.Show("Licni mi jajce");
+>>>>>>> origin/master
         }
     }
 }
