@@ -1,0 +1,12 @@
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\tvukoja\VSProjekti\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\tvukoja\VSProjekti\Test\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\tvukoja\VSProjekti\Test\TestApp\obj\Debug\TestApp.exe
+C:\Users\tvukoja\VSProjekti\Test\TestApp\obj\Debug\TestApp.pdb
