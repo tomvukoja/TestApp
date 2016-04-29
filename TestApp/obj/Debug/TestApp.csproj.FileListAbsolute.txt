@@ -13,3 +13,9 @@ C:\Users\tvukoja\VSProjekti\Test\TestApp\obj\Debug\TestApp.pdb
 C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\bin\Debug\TestApp.exe.config
 C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\obj\Debug\TestApp.exe
 C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\bin\Debug\TestApp.exe
+C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Valentina\Documents\GitHub\Vuki_Vale_test\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
