@@ -30,7 +30,14 @@ namespace TestApp
         private void button3_Click(object sender, EventArgs e)
         {
             button3.Text = "Kurčić";
-            
+
+                Random x = new Random();
+                Random y = new Random();
+                Point tocka = new Point();
+                tocka.X = int.Parse(x.Next(200).ToString());
+                tocka.Y = int.Parse(y.Next(200).ToString());
+                button3.Location = tocka;
+
         }
     }
 }
